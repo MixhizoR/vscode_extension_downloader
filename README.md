@@ -19,7 +19,7 @@ A Python script to download VS Code extensions (.vsix files) directly from the V
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/vscode-extension-downloader.git
+   git clone https://github.com/MixhizoR/vscode_extension_downloader.git
    cd vscode-extension-downloader
    ```
 
